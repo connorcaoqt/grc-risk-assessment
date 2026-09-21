@@ -42,7 +42,6 @@ This project uses the NIST Cybersecurity Framework (CSF) to connect cybersecurit
 - GRC documentation
 
 ## What I Learned
-## What I Learned
 
 Through this project, I learned how to identify cybersecurity risks and think about the impact they could have on a business. I also learned to consider what assets a company needs to protect, what threats could affect those assets, and what vulnerabilities could make an incident more likely.
 
