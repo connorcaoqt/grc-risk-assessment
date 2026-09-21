@@ -6,7 +6,7 @@ The purpose of this policy is to protect company assets and sensitive informatio
 
 ## Scope
 
-This policy applies to all employees and independent contractors, as well as all devices that access company systems and information.
+This policy applies to all employees, contractors, temporary workers, and any other individuals who are granted access to company systems or information.
 
 ## Policy Requirements
 
