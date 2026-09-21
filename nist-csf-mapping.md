@@ -7,6 +7,7 @@
 | R-03 | Temporary cloud service outage caused by a DDoS attack | Protect | DDoS protection and rate limiting | These controls help reduce malicious traffic and prevent the cloud service from being overwhelmed |
 | R-04 | Temporary outage of the internal employee portal | Govern | Documented risk acceptance | Management accepts the low risk because temporary downtime is tolerable and does not justify additional safeguards |
 
+The following section provides a deeper example of how a single risk can involve multiple NIST CSF functions throughout the incident lifecycle.
 
 ## R-03 DDoS Risk - NIST CSF Lifecycle
 
