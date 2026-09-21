@@ -8,9 +8,8 @@
 | R-04 | Temporary outage of the internal employee portal | Govern | Documented risk acceptance | Management accepts the low risk because temporary downtime is tolerable and does not justify additional safeguards |
 
 
+## R-03 DDoS Risk - Detailed NIST CSF Mapping
 The following section provides a deeper example of how a single risk can involve multiple NIST CSF functions throughout the incident lifecycle.
-## R-03 DDoS Risk - NIST CSF Lifecycle
-
 | NIST CSF Function | Control or Action | Purpose |
 |---|---|---|
 | Protect | DDoS protection and rate limiting | Reduce malicious traffic before it overwhelms the service |
