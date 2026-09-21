@@ -10,6 +10,10 @@ This policy applies to all employees, contractors, temporary workers, and any ot
 
 ## Policy Requirements
 
+- All users must use strong passwords that meet company security requirements.
+- Multi-factor authentication (MFA) must be enabled for accounts that access sensitive company systems or information.
+- User access privileges must be reviewed regularly to ensure individuals only have access to the systems and information needed for their role.
+- Access must be removed promptly for employees, contractors, or other users who are no longer associated with the company.
 ## Roles and Responsibilities
 
 ## Review
