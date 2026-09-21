@@ -21,7 +21,7 @@ SecureCloud Solutions is a fictional SaaS company with approximately 150 employe
 
 ## Framework Used
 
-This project uses the NIST Cybersecurity Framework (CSF) to connect cybersecurity risks and controls to the following functions:
+This project uses the NIST Cybersecurity Framework (CSF) 2.0 to connect cybersecurity risks and controls to the following functions:
 
 - Govern
 - Identify
