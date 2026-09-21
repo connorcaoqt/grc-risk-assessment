@@ -2,30 +2,15 @@
 
 ## Likelihood Scale
 
-1 - Rare:
-2 - Unlikely:
-3 - Possible:
-4 - Likely:
-5 - Almost Certain:
+1 - Rare: Very unlikely to happen and would require unusual circumstances.
 
-## Impact Scale
+2 - Unlikely: Could happen, but we do not expect it to happen often.
 
-1 - Insignificant:
-2 - Minor:
-3 - Moderate:
-4 - Major:
-5 - Critical:
+3 - Possible: Could realistically happen sometimes, but it is not expected regularly.
 
-## Risk Calculation
+4 - Likely: Has a strong chance of happening and would not be surprising if it occurred.
 
-Risk Score = Likelihood × Impact
-
-## Risk Levels
-
-1-4 = Low  
-5-9 = Moderate  
-10-16 = High  
-17-25 = Critical
+5 - Almost Certain: Expected to happen frequently or repeatedly.
 
 ## Impact Scale
 
@@ -38,3 +23,14 @@ Risk Score = Likelihood × Impact
 4 - Major: Causes serious damage, significant disruption, or financial loss and requires prompt action.
 
 5 - Critical: Causes severe damage, major business disruption, or serious legal or financial consequences and requires immediate action.
+
+## Risk Calculation
+
+Risk Score = Likelihood × Impact
+
+## Risk Levels
+
+1-4 = Low  
+5-9 = Moderate  
+10-16 = High  
+17-25 = Critical
