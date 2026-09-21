@@ -23,3 +23,4 @@ This policy applies to all employees, contractors, temporary workers, and any ot
 ## Review
 
 This policy will be reviewed annually and updated when significant changes occur to company systems, personnel, or security requirements.
+
